@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\bin\Debug\ftpupload.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\bin\Debug\ftpupload.exe
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\bin\Debug\ftpupload.pdb
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\obj\Debug\ftpupload.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\obj\Debug\ftpupload.exe
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\obj\Debug\ftpupload.pdb
+c:\users\user\documents\visual studio 2013\Projects\ftpupload\ftpupload\bin\Debug\ftplib.dll
