@@ -2,7 +2,7 @@
 using System.IO;
 using System.Net;
 using System.Text;
-using FtpLib;
+using FtpLib;//provided by codeplex.com
 namespace ftpupload
 {
     class Program
